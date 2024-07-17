@@ -110,7 +110,7 @@ def main():
                         break
             else:
                 print(f'Error getting data')
-        break
+        
 
 
 main()
